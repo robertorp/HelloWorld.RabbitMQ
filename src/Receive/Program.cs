@@ -1,0 +1,4 @@
+﻿
+
+new Receive.Receive().Receber();
+
